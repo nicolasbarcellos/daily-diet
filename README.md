@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Rocketseat Education" src="/assets/preview.jpeg" />
+  <img alt="Rocketseat Education" src="/assets/preview.jpeg" width='500px'/>
 </p>
 
 
